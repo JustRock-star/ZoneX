@@ -1,0 +1,6 @@
+{
+  "name": "ZoneX 3D Battle Royale",
+  "description": "A feature-complete 3D third-person battle royale and open-world shooter with procedural map generation, building mechanics, drivable vehicles, smart bot AI, multiple game modes, and synthesized Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
